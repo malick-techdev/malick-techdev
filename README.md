@@ -1,16 +1,19 @@
-## Hi there 👋
+# malick-techdev
 
-<!--
-**malick-techdev/malick-techdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **First Python scripts to launch my tech journey.**
 
-Here are some ideas to get you started:
+Welcome to my first repository!  
+This space will progressively gather all my projects, from beginner to advanced level, as I grow my skills towards a Tech career focused on Python, Data Science, DevOps, and Cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 👨‍💻 Tech enthusiast aiming at international freelance markets.
+- 🌍 Bilingual: French 🇫🇷 | English 🇺🇸
+- 🎯 Long-term goals: Data Science, Machine Learning, AWS Cloud, DevOps.
+
+## What's inside?
+- First Python scripts
+- Training exercises
+- Mini-projects to demonstrate skills development
+
+---
+Stay tuned for updates as I evolve! 🚀
